@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Tharuka-Wijethunga<br>👀 I’m interested in Artificial intelligence, Machine learning, and their applications in solving real-world challenges. My passion lies in exploring how AI technologies can drive innovation and efficiency across various industries.<br>🌱 I’m currently pursuing a BSc Hons in Artificial Intelligence, where I'm diving deep into advanced machine learning techniques and practical AI implementations.<br>💞️ I’m looking to collaborate on innovative AI/ML projects that push the boundaries of technology and contribute to impactful, open-source initiatives.
+Hi, I’m @Tharuka-Wijethunga<br>I’m interested in Artificial intelligence, Machine learning, and their applications in solving real-world challenges. My passion lies in exploring how AI technologies can drive innovation and efficiency across various industries.<br>I’m currently pursuing a BSc Hons in Artificial Intelligence, where I'm diving deep into advanced machine learning techniques and practical AI implementations.<br>I’m looking to collaborate on innovative AI/ML projects that push the boundaries of technology and contribute to impactful, open-source initiatives.
 
 
 ## 🌐 Socials:
